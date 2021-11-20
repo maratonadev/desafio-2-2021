@@ -113,7 +113,7 @@ La API que creará recibirá los siguientes datos, en formato JSON, como en el s
 
 ```json
 {
-  "room": "bathroom",
+  "room": "bathroom-main",
   "values": {
     "co2": 400,
     "temperature": 22,
